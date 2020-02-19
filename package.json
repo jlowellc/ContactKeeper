@@ -1,0 +1,21 @@
+{
+	"name": "contactkeeper",
+	"version": "1.0.0",
+	"description": "A contact manager app",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js",
+		"server": "nodemon server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jlowellc/ContactKeeper.git"
+	},
+	"keywords": [],
+	"author": "James Carter",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/jlowellc/ContactKeeper/issues"
+	},
+	"homepage": "https://github.com/jlowellc/ContactKeeper#readme"
+}
